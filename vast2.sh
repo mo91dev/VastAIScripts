@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # After restaring the instance
-cd home
+cd /home
 
 mkdir models 
 cd models 
