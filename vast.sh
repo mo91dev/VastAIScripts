@@ -2,7 +2,7 @@
 
 # Restart the VastAI instance after running this
 # Koboldcpp
-cd /home
+cd /root
 
 sudo apt-get update 
 sudo apt-get install -y git git-lfs vim 
